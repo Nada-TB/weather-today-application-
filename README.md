@@ -6,7 +6,7 @@
 
 ## Demo
 ### Live demo
-Check out the live demo [here](https://github.com/Nada-TB/weather-today-application-/blob/master/demo-weather-app%20(2).mp4)
+
 
 ![Weather Today Demo](https://github.com/Nada-TB/weather-today-application-/blob/master/Weather_Today.png)
 
