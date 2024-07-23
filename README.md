@@ -5,6 +5,8 @@
 "Weather Today" is a web application that allows users to check the current weather in their chosen city. The application retrieves weather data from the OpenWeatherMap API and displays the results dynamically on the web page. Users can enter a city name, submit the form, and receive real-time weather information including temperature, humidity, wind speed, and weather description.
 
 ## Demo
+###Live demo
+Check out the live demo [here]()
 
 ![Weather Today Demo](https://github.com/Nada-TB/weather-today-application-/blob/master/Weather_Today.png)
 
